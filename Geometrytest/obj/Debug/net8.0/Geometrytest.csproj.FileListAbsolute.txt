@@ -112,3 +112,4 @@ E:\ModularDevelopment\Geometryapp\Geometrytest\obj\Debug\net8.0\refint\Geometryt
 E:\ModularDevelopment\Geometryapp\Geometrytest\obj\Debug\net8.0\Geometrytest.pdb
 E:\ModularDevelopment\Geometryapp\Geometrytest\obj\Debug\net8.0\Geometrytest.genruntimeconfig.cache
 E:\ModularDevelopment\Geometryapp\Geometrytest\obj\Debug\net8.0\ref\Geometrytest.dll
+E:\ModularDevelopment\Geometryapp\Geometrytest\obj\Debug\net8.0\Geometrytest.sourcelink.json

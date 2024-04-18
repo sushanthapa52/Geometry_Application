@@ -56,7 +56,7 @@ if (await featureManager.IsEnabledAsync("Triangle"))
 
 if (await featureManager.IsEnabledAsync("Rectangle"))
 { // Provide access to Rectangle
-    Console.WriteLine("Enter the length and width of the rectangle (separated by a space):");
+    Console.WriteLine("Enter the length and width of the rectangle:");
 
     // Get input for length and width
     Console.Write("Length: ");

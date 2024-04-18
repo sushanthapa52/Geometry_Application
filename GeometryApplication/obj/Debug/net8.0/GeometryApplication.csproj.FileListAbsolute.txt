@@ -28,3 +28,4 @@ E:\ModularDevelopment\Geometryapp\GeometryApplication\obj\Debug\net8.0\refint\Ge
 E:\ModularDevelopment\Geometryapp\GeometryApplication\obj\Debug\net8.0\GeometryApplication.pdb
 E:\ModularDevelopment\Geometryapp\GeometryApplication\obj\Debug\net8.0\GeometryApplication.genruntimeconfig.cache
 E:\ModularDevelopment\Geometryapp\GeometryApplication\obj\Debug\net8.0\ref\GeometryApplication.dll
+E:\ModularDevelopment\Geometryapp\GeometryApplication\obj\Debug\net8.0\GeometryApplication.sourcelink.json
