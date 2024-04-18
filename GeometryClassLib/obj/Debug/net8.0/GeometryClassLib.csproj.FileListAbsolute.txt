@@ -1,0 +1,11 @@
+E:\ModularDevelopment\Geometryapp\GeometryClassLib\bin\Debug\net8.0\GeometryClassLib.deps.json
+E:\ModularDevelopment\Geometryapp\GeometryClassLib\bin\Debug\net8.0\GeometryClassLib.dll
+E:\ModularDevelopment\Geometryapp\GeometryClassLib\bin\Debug\net8.0\GeometryClassLib.pdb
+E:\ModularDevelopment\Geometryapp\GeometryClassLib\obj\Debug\net8.0\GeometryClassLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\ModularDevelopment\Geometryapp\GeometryClassLib\obj\Debug\net8.0\GeometryClassLib.AssemblyInfoInputs.cache
+E:\ModularDevelopment\Geometryapp\GeometryClassLib\obj\Debug\net8.0\GeometryClassLib.AssemblyInfo.cs
+E:\ModularDevelopment\Geometryapp\GeometryClassLib\obj\Debug\net8.0\GeometryClassLib.csproj.CoreCompileInputs.cache
+E:\ModularDevelopment\Geometryapp\GeometryClassLib\obj\Debug\net8.0\GeometryClassLib.dll
+E:\ModularDevelopment\Geometryapp\GeometryClassLib\obj\Debug\net8.0\refint\GeometryClassLib.dll
+E:\ModularDevelopment\Geometryapp\GeometryClassLib\obj\Debug\net8.0\GeometryClassLib.pdb
+E:\ModularDevelopment\Geometryapp\GeometryClassLib\obj\Debug\net8.0\ref\GeometryClassLib.dll
